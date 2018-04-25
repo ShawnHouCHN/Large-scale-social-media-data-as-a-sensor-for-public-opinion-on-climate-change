@@ -19,9 +19,8 @@ The project consists of three sections, data ingestion, data aggregation/enrichm
 - Data Aggregation/Enrichment. 
 
   At this step, notebooks are managed accoundingly for each year due to the complexity of computation
-  - Aggregation
   
   The "binned" and "county" notebook respectively contain distinct granularity torwards the processed data. The "binned" one applies 25KM and 50KM raster over US while the "county" one confines each oberservation to a county.
   
-  Data is enriched by using DeepMoji project public on 
+  Data is enriched by using DeepMoji project public on [MIT Media Lab Project](https://deepmoji.mit.edu/).
     
