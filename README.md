@@ -5,10 +5,10 @@ This is the source code repository of master thesis for Xiaoshen Hou to obtain M
 The project consists of three sections, data ingestion, data aggregation/enrichment and modelling.
 - Data Ingestion 
   - Datasets
-    Twitter is retrieved from authenticated resouce via Spark application.
-    Meteorological data including PRISM and NCEP Reanalysis 2 are downloaded from public resource
-    Population density is given by NASA
-    US county details is also public on US Census Bureau
+    1. Twitter is retrieved from authenticated resouce via Spark application.
+    2. Meteorological data including PRISM and NCEP Reanalysis 2 are downloaded from public resource
+    3. Population density is given by NASA.
+    4. US county details is also public on US Census Bureau
   - Temporal Period
     2013 - 2016
   - Geographical Region
