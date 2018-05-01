@@ -28,4 +28,4 @@ The project consists of three sections, data ingestion, data aggregation/enrichm
 
   The empirical model is the multigroup fixed effect model, following the guideline from the paper: [weather impacts expressed sentiment](https://arxiv.org/abs/1709.00071), where weather factors act as covariates while tweet volume/ emotion scores are the dependent 
   variables. The temporal and spatial difference of oberservations behave as unobserved time-invariant variables correlated with the 
-  regressor matrix
+  regressor matrix. The analysis is documented in a R notebook and plots based on different granularities are saved in the repo.
