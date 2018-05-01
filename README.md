@@ -24,3 +24,6 @@ The project consists of three sections, data ingestion, data aggregation/enrichm
   
   Data is enriched by using DeepMoji project published by [MIT Media Lab Project](https://deepmoji.mit.edu/) to support the sentimental analysis of the observation in the project. This process has been put in Data Preprocessing DeepMoji.ipynb notebook in the repo
     
+- Data Modelling.
+
+ The empirical model is the multigroup fixed effect model where weather factors act as covariates while tweet volume/ emotion scores are the dependent variables. The temporal and spatial difference of oberservations behave as unobserved time-invariant variables correlated with the regressor matrix
