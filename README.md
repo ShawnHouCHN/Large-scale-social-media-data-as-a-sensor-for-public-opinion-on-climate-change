@@ -1,4 +1,4 @@
-# Large-scale-social-media-data-as-a-sensor-for-public-opinion-on-climate-change
+# Large-scale social media data as a sensor for weather changes
 This is the source code repository of master thesis for Xiaoshen Hou to obtain Master of Science in Digital Media Engineering from Technical University of Denmark. Supervisor is Professor Sune Lehmann and external advisor is phd researcher Kelton Minor. 
 
 ## Project Structure: 
